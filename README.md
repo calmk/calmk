@@ -1,4 +1,4 @@
-<img align="Center" alt="pic" height="280" width="1000" src=https://user-images.githubusercontent.com/100661121/233310402-2803fdbd-50f5-435f-85e3-05518f0f842d.jpg>
+<img align="Center" alt="pic" height="200" width="1000" src=https://user-images.githubusercontent.com/100661121/233310402-2803fdbd-50f5-435f-85e3-05518f0f842d.jpg>
 
 <h1 align="center">Hi 👋, I'm Bao Khanh :vietnam:</h1>
 <h3 align="center"> Data Analyst || BI enthusiast and Data storyteller </h3>
