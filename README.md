@@ -1,7 +1,7 @@
 <img align="Center" alt="pic" height="200" width="1000" src=https://user-images.githubusercontent.com/100661121/233310402-2803fdbd-50f5-435f-85e3-05518f0f842d.jpg>
 
 <h1 align="center">Hi 👋, I'm Bao Khanh :vietnam:</h1>
-<h3 align="center"> Data Analyst || BI enthusiast and Data storyteller </h3>
+<h2 align="center"> Data Analyst || BI enthusiast and Data storyteller </h2>
 <img align="right" alt="Coding" width="300" src=https://user-images.githubusercontent.com/100661121/233270755-e4198ab4-9f05-4518-8181-819899668168.png>
 
 
@@ -17,7 +17,7 @@
 - :ok_man:I'm an Introverted Minimalist and lifelong worshiper of calm
 - 🌱 I'm a Plan lover and Vegetarian
 - :coffee: I am a pro-solitude addict
-- :yellow_heart: My hobbies are playing piano, tidying up and handcraftting some cute stuffs
+- :yellow_heart: My hobbies are playing piano, tidying up and handcrafting some cute stuffs
 - :books: I also like **literature, reading and writing.** 
 - :yin_yang: Especially interested in [Yi Jing](https://en.wikipedia.org/wiki/I_Ching)
 - :muscle: I used to be a Men Physique athlete
