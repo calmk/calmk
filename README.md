@@ -1,4 +1,4 @@
-<img align="Center" alt="Data Analytics" height="350" width="1000" src=https://user-images.githubusercontent.com/100661121/233288357-37f4fab3-11fd-452c-9d40-97db48f57d38.jpg>
+<img align="Center" alt="Data Analytics" height="300" width="1000" src=https://user-images.githubusercontent.com/100661121/233310402-2803fdbd-50f5-435f-85e3-05518f0f842d.jpg>
 
 <h1 align="center">Hi 👋, I'm Bao Khanh :vietnam:</h1>
 <h3 align="center"> Data Analyst || BI enthusiast and Data storyteller </h3>
@@ -8,7 +8,7 @@
 - I am a **Data rookie**
 - I like to build  **beautiful data visualization ❤️** and tell **narratives behind**
 - I believe that **"Torture the data and it will confess to anything"**
-- I’m currently learning **: Python and its analytical packages**
+- I’m currently learning: **Python and its analytical packages**
 
 
 **Talking about Personal Stuffs:**
