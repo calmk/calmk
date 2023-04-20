@@ -15,7 +15,7 @@
 
 - :mortar_board: I am a **graduate student in Internation Business** at UEL
 - :ok_man:I'm an **Introverted Minimalist** and lifelong worshiper of calm
-- 🌱 I'm a **Plan lover** and **Vegetarian**
+- 🌱 I'm a **Plant lover** and **Vegetarian**
 - :coffee: I am a **pro-solitude addict**
 - :yellow_heart: My hobbies are playing piano, tidying up and handcrafting some cute stuff
 - :books: I also like **literature**, **reading** and **writing** 
