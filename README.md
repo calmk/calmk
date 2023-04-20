@@ -13,12 +13,12 @@
 
 **Talking about Personal Stuffs:**
 
-- :mortar_board: I am a graduate student in Internation Business at UEL
-- :ok_man:I'm an Introverted Minimalist and lifelong worshiper of calm
-- 🌱 I'm a Plan lover and Vegetarian
-- :coffee: I am a pro-solitude addict
-- :yellow_heart: My hobbies are playing piano, tidying up and handcrafting some cute stuffs
-- :books: I also like **literature, reading and writing.** 
+- :mortar_board: I am a **graduate student in Internation Business** at UEL
+- :ok_man:I'm an **Introverted Minimalist** and lifelong worshiper of calm
+- 🌱 I'm a **Plan lover** and **Vegetarian**
+- :coffee: I am a **pro-solitude addict**
+- :yellow_heart: My hobbies are playing piano, tidying up and handcrafting some cute stuff
+- :books: I also like **literature**, **reading** and **writing** 
 - :yin_yang: Especially interested in [Yi Jing](https://en.wikipedia.org/wiki/I_Ching)
 - :muscle: I used to be a Men Physique athlete
 - 📫 How to reach me: **baokhanhdinhtr@gmail.com** 
