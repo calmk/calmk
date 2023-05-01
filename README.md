@@ -1,10 +1,11 @@
 <img align="Center" alt="pic" height="320" width="1000" src=https://user-images.githubusercontent.com/100661121/235061470-f624d580-c420-46bb-aebc-4e0488229b99.svg>
 
-<h1 align="center">Hi 👋, I'm Bao Khanh :vietnam:</h1>
+<h1 align="center">Hi, I'm Bao Khanh :vietnam:</h1>
 <h2 align="center"> Data Analyst || BI enthusiast and Data storyteller </h2>
 <img align="right" alt="Coding" width="300" src=https://user-images.githubusercontent.com/100661121/233270755-e4198ab4-9f05-4518-8181-819899668168.png>
 
 
+- I am a **graduate student in Internation Business** at UEL
 - I am a **Data rookie**
 - I like to build  **beautiful data visualization ❤️** and tell **narratives behind**
 - I believe that **"Torture the data and it will confess to anything"**
@@ -13,14 +14,14 @@
 
 **Talking about Personal Stuffs:**
 
-- :mortar_board: I am a **graduate student in Internation Business** at UEL
-- :ok_man:I'm an **Introverted Minimalist** and lifelong worshiper of calm
-- 🌱 I'm a **Plant lover** and **Vegetarian**
-- :coffee: I am a **pro-solitude addict**
-- :yellow_heart: My hobbies are playing piano, tidying up and handcrafting some cute stuff
-- :books: I also like **literature**, **reading** and **writing** 
-- :yin_yang: Especially interested in [Yi Jing](https://en.wikipedia.org/wiki/I_Ching)
-- :muscle: I used to be a Men Physique athlete
+- I used to be a Men Physique athlete
+- I'm an **Introverted Minimalist** and lifelong worshiper of calm
+- I am a **pro-solitude addict**
+- I'm a **Plant lover** and **Vegetarian**
+- My hobbies are playing piano, tidying up and handcrafting
+- I also like **literature**, **reading** and **writing** 
+- Especially interested in [Yi Jing](https://en.wikipedia.org/wiki/I_Ching)
+
 - 📫 How to reach me: **baokhanhdinhtr@gmail.com** 
 
 
